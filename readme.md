@@ -4,3 +4,5 @@
 <h3>系統架構<hr></h3>
 <h4>下圖為系統架構圖:</h4>
 <img src="https://user-images.githubusercontent.com/11407961/30754106-fd8eb640-9ff3-11e7-9c25-c62b175301b0.JPG">
+<h3>主要技術<hr></h3>
+<h4>下表為技術列表:</h4>
