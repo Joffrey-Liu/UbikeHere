@@ -3,4 +3,4 @@
 <h4>隨著<a href="http://tycg.youbike.com.tw/cht/index.php">Ubike</a>的普及，愈來愈多民眾使用此來當作代步工具。然而，使用者卻無法及時且隨時地得知租賃站資訊，因此消耗人們許多時間在找尋停Ubike與車位；現在也有許多人騎著Ubike來當作運動因此也加入了個人化的卡路里消耗計算。</h4>
 <h3>系統架構<hr></h3>
 <h4>下圖為系統架構圖:</h4>
-<img src="https://user-images.githubusercontent.com/11407961/30753594-50c7d9ba-9ff2-11e7-885a-b02151afa7cf.JPG">
+<img src="https://user-images.githubusercontent.com/11407961/30754106-fd8eb640-9ff3-11e7-9c25-c62b175301b0.JPG">
