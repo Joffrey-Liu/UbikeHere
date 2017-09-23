@@ -14,3 +14,6 @@
 | 地圖搜尋功能|使用android.support.v7.widget.SearchView元件來實現搜尋功能，並將使用者所輸入的地點丟入geocoder.getFromLocationName()，且在地圖上標示出搜尋結果。|  
 | 計算卡路里|使用<a href="https://en.wikipedia.org/wiki/Harris%E2%80%93Benedict_equation">Harris Benedict Equation（HBE)</a>來計算出使用者一天的基礎代謝率。根據使用者騎車時間與使用者的身高體重來計算卡路里消耗量。| 
 | 秀出天氣資訊|使用<a href="https://www.worldweatheronline.com">WWO(world weather onilne)</a>取得桃園市天氣XML檔案，並parse XML檔案取得天氣資訊(氣溫、天氣描述)。| 
+
+<h3>成果與結論<hr></h3>
+此專題結合政府開放資料與Android APP，將Ubike租賃站資訊人性化顯示，並計算最短路徑規劃導航功能與個人健康資訊紀錄．實作過程學到許多人機概念與扎實的Android技術．
