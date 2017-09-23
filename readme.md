@@ -16,4 +16,5 @@
 | 秀出天氣資訊|使用<a href="https://www.worldweatheronline.com">WWO(world weather onilne)</a>取得桃園市天氣XML檔案，並parse XML檔案取得天氣資訊(氣溫、天氣描述)。| 
 
 <h3>成果與結論<hr></h3>
-此專題結合政府開放資料與Android APP，將Ubike租賃站資訊人性化顯示，並計算最短路徑規劃導航功能與個人健康資訊紀錄．實作過程學到許多人機概念與扎實的Android技術．
+此專題結合政府開放資料與Android APP，將Ubike租賃站資訊人性化顯示，並計算最短路徑規劃導航功能與個人健康資訊紀錄．實作過程學到許多人機概念與扎實的Android技術。下列圖為成果截圖。<a href="https://www.youtube.com/watch?v=6vx214x6bX4">Demo影片</a>
+<img src="https://user-images.githubusercontent.com/11407961/30774227-d94bd420-a0b1-11e7-81f2-c3bb0e81b82e.png">
