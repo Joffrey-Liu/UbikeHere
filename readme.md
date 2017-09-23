@@ -13,4 +13,4 @@
 | 導航功能|使用web版GooglemapAPI 取得兩點之間最短距離的路徑的每個節點的XML檔案，再利用map.polyline()將每個節點連接起來。| 
 | 地圖搜尋功能|使用android.support.v7.widget.SearchView元件來實現搜尋功能，並將使用者所輸入的地點丟入geocoder.getFromLocationName()，且在地圖上標示出搜尋結果。|  
 | 計算卡路里|使用<a href="https://en.wikipedia.org/wiki/Harris%E2%80%93Benedict_equation">Harris Benedict Equation（HBE)</a>來計算出使用者一天的基礎代謝率。根據使用者騎車時間與使用者的身高體重來計算卡路里消耗量。| 
-| 秀出天氣資訊|使用WWO(world weather onilne)取得桃園市天氣XML檔案，並parse XML檔案取得天氣資訊(氣溫、天氣描述)。| 
+| 秀出天氣資訊|使用<a href="https://www.worldweatheronline.com">WWO(world weather onilne)</a>取得桃園市天氣XML檔案，並parse XML檔案取得天氣資訊(氣溫、天氣描述)。| 
